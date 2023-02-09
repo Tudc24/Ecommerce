@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="d_send_link">We will sent you the password reset link to your email</string>
+</resources>
